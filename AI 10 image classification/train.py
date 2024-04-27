@@ -1,9 +1,11 @@
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
 from keras.models import Sequential
 from keras.layers import Conv2D
 from keras.layers import MaxPooling2D
 from keras.layers import Flatten
 from keras.layers import Dense
-from keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 
 model = Sequential()
@@ -30,7 +32,7 @@ val_set = val_datagen.flow_from_directory('Dataset/val',
                                             batch_size = 8,
                                             class_mode = 'binary')
 
-model.fit_generator(training_set,
+model.fit(training_set,
                          steps_per_epoch = 10,
                          epochs = 50,
                          validation_data = val_set,

@@ -1,3 +1,5 @@
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
 from keras.models import model_from_json
 import numpy as np
 from keras.preprocessing import image
