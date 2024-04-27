@@ -25,7 +25,7 @@ def classify(img_file):
 
 
 import os
-path = 'C:/Users/Admin/Desktop/AI/Day_13/Code/Dataset/test1'
+path = 'C:/Users/ADMIN/Desktop/gitfolder/AI 10 image classification/Dataset/test1'
 files = []
 # r=root, d=directories, f = files
 for r, d, f in os.walk(path):
@@ -36,3 +36,4 @@ for r, d, f in os.walk(path):
 for f in files:
    classify(f)
    print('\n')
+   
