@@ -32,7 +32,7 @@ def classify(img_file):
 
 
 import os
-path = 'C:/Users/Admin/Desktop/Day_14/Day_14/check'
+path = 'C:/Users/ADMIN/Desktop/gitfolder/AI11 Hand Gesture Recognition/check'
 files = []
 # r=root, d=directories, f = files
 for r, d, f in os.walk(path):

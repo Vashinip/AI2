@@ -1,7 +1,8 @@
-# -*- coding: utf-8 -*-
 # MLP for Pima Indians Dataset Serialize to JSON and HDF5
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
 import numpy as np
-from keras.preprocessing import image
+from tensorflow.keras.preprocessing import image
 from keras.models import model_from_json
 import cv2
 

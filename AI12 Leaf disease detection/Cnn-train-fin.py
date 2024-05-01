@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
 from keras.models import Sequential
 #initialize nn
 from keras.layers import Conv2D
@@ -6,7 +8,7 @@ from keras.layers import MaxPooling2D
 from keras.layers import Flatten
 #convert pooling features space to large feature vector for fully
 #connected layer 
-from keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from keras.layers import Dense
 from keras.layers import BatchNormalization
 from keras.layers import Dropout
@@ -67,7 +69,7 @@ test_set = test_datagen.flow_from_directory('dataset/test',
 labels2 = (test_set.class_indices)
 print(labels2)
 
-model.fit_generator(training_set,
+model.fit(training_set,
                          steps_per_epoch = 375,
                          epochs = 10,
                          validation_data = test_set,

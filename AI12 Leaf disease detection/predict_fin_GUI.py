@@ -1,9 +1,9 @@
-
-
+import os
+os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
 import tkinter as tk
 from tkinter import filedialog
 import numpy as np
-from keras.preprocessing import image
+from tensorflow.keras.preprocessing import image
 from keras.models import model_from_json
 from tkinter import *
 
