@@ -1,0 +1,8476 @@
+[ Episode 1 / Step 0 ]
+# # # # # # # # # # 
+# T B B H   F     # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 1 ]
+# # # # # # # # # # 
+#   T B B H F     # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 2 ]
+# # # # # # # # # # 
+#   T B B B H     # 
+#       F         # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 3 ]
+# # # # # # # # # # 
+#     T B B B     # 
+#       F   H     # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 4 ]
+# # # # # # # # # # 
+#       T B B     # 
+#       F H B     # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 5 ]
+# # # # # # # # # # 
+#       T B B     # 
+#   F   H B B     # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 6 ]
+# # # # # # # # # # 
+#         T B     # 
+#   F H B B B     # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 7 ]
+# # # # # # # # # # 
+#         T B     # 
+#   H B B B B     # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#               F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 8 ]
+# # # # # # # # # # 
+#           T     # 
+#   B B B B B     # 
+#   H             # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#               F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 9 ]
+# # # # # # # # # # 
+#                 # 
+#   B B B B T     # 
+#   B             # 
+#   H             # 
+#                 # 
+#                 # 
+#                 # 
+#               F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 10 ]
+# # # # # # # # # # 
+#                 # 
+#   B B B T       # 
+#   B             # 
+#   B             # 
+#   H             # 
+#                 # 
+#                 # 
+#               F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 11 ]
+# # # # # # # # # # 
+#                 # 
+#   B B T         # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   H             # 
+#                 # 
+#               F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 12 ]
+# # # # # # # # # # 
+#                 # 
+#   B T           # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   H             # 
+#               F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 13 ]
+# # # # # # # # # # 
+#                 # 
+#   T             # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   H           F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 14 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   T             # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   B H         F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 15 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#   T             # 
+#   B             # 
+#   B             # 
+#   B             # 
+#   B B H       F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 16 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   T             # 
+#   B             # 
+#   B             # 
+#   B B B H     F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 17 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   T             # 
+#   B             # 
+#   B B B B H   F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 18 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   T             # 
+#   B B B B B H F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 19 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F             # 
+#                 # 
+#   T             # 
+#   B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 20 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F             # 
+#                 # 
+#               H # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 21 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F             # 
+#               H # 
+#               B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 22 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F           H # 
+#               B # 
+#               B # 
+#       T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 23 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F         H B # 
+#               B # 
+#               B # 
+#         T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 24 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F       H B B # 
+#               B # 
+#               B # 
+#           T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 25 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F     H B B B # 
+#               B # 
+#               B # 
+#             T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 26 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F   H B B B B # 
+#               B # 
+#               B # 
+#               T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 27 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   F H B B B B B # 
+#               B # 
+#               T # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 28 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   H B B B B B B # 
+#               B # 
+#   F           T # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 29 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B B B B B B # 
+#   H           T # 
+#   F             # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 30 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B B B B B B # 
+#   B           T # 
+# F H             # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 31 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B B B B B B # 
+#   B           T # 
+# H B             # 
+#               F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 32 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B B B B B T # 
+#   B             # 
+# B B             # 
+# H             F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 33 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B B B B T   # 
+#   B             # 
+# B B             # 
+# B H           F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 34 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B B B T     # 
+#   B             # 
+# B B             # 
+# B B H         F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 35 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B B T       # 
+#   B             # 
+# B B             # 
+# B B B H       F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 36 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B B T         # 
+#   B             # 
+# B B             # 
+# B B B B H     F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 37 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   B T           # 
+#   B             # 
+# B B             # 
+# B B B B B H   F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 38 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   T             # 
+#   B             # 
+# B B             # 
+# B B B B B B H F # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 39 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#   T     F       # 
+#   B             # 
+# B B             # 
+# B B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 40 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#         F       # 
+#   T             # 
+# B B           H # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 41 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#         F       # 
+#               H # 
+# B T           B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 42 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#         F     H # 
+#               B # 
+# T             B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 43 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#         F   H B # 
+#               B # 
+#               B # 
+# T B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 44 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#         F H B B # 
+#               B # 
+#               B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 45 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#         H B B B # 
+#           F   B # 
+#               B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 46 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#                 # 
+#         B B B B # 
+#         H F   B # 
+#               B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 47 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#           F     # 
+#         B B B B # 
+#         B H   B # 
+#               B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 48 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#           F     # 
+#         B B B B # 
+#         B B   B # 
+#           H   B # 
+#       T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 49 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#           F     # 
+#         B B B B # 
+#         B B   B # 
+#         H B   B # 
+#         T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 50 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#           F     # 
+#         B B B B # 
+#         B B   B # 
+#       H B B   B # 
+#           T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 51 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#           F     # 
+#         B B B B # 
+#       H B B   B # 
+#       B B B   B # 
+#             T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 52 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#           F     # 
+#       H B B B B # 
+#       B B B   B # 
+#       B B B   B # 
+#               T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 53 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#       H   F     # 
+#       B B B B B # 
+#       B B B   B # 
+#       B B B   T # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 54 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#                 # 
+#       B H F     # 
+#       B B B B B # 
+#       B B B   T # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 55 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#         F       # 
+#       B B H     # 
+#       B B B B B # 
+#       B B B   T # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 56 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#         F H     # 
+#       B B B     # 
+#       B B B B T # 
+#       B B B     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 57 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#         H B     # 
+# F     B B B     # 
+#       B B B B T # 
+#       B B B     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 58 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       H B B     # 
+# F     B B B     # 
+#       B B B T   # 
+#       B B B     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 59 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#     H B B B     # 
+# F     B B B     # 
+#       B B T     # 
+#       B B B     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 60 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   H B B B B     # 
+# F     B B B     # 
+#       B T       # 
+#       B B B     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 61 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+# H B B B B B     # 
+# F     B B B     # 
+#       B         # 
+#       B T B     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 62 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# H     B B B     # 
+#       B         # 
+#       B T B     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 63 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B     B B B     # 
+# H     B         # 
+#       B   T     # 
+#       B B B     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 64 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B     B B B     # 
+# B     B         # 
+# H     B         # 
+#       B B T     # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 65 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B     B B B     # 
+# B     B         # 
+# B     B         # 
+# H     B T       # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 66 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B     B B B     # 
+# B     B         # 
+# B     B         # 
+# B     T         # 
+# H               # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 67 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B     B B B     # 
+# B     B         # 
+# B     T         # 
+# B               # 
+# B H             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 68 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B     B B B     # 
+# B     T         # 
+# B               # 
+# B               # 
+# B B H           # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 69 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B     T B B     # 
+# B               # 
+# B               # 
+# B               # 
+# B B B H         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 70 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B       T B     # 
+# B               # 
+# B               # 
+# B               # 
+# B B B B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 71 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B B     # 
+# B         T     # 
+# B               # 
+# B               # 
+# B               # 
+# B B B B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 72 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B B T     # 
+# B               # 
+# B               # 
+# B               # 
+# B               # 
+# B B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 73 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B B T       # 
+# B               # 
+# B               # 
+# B               # 
+# B           H   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 74 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B B T         # 
+# B               # 
+# B               # 
+# B           H   # 
+# B           B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 75 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B B T           # 
+# B               # 
+# B           H   # 
+# B           B   # 
+# B           B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 76 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# B T             # 
+# B           H   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 77 ]
+# # # # # # # # # # 
+#             F   # 
+#                 # 
+# T           H   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 78 ]
+# # # # # # # # # # 
+#             F   # 
+#             H   # 
+#             B   # 
+# T           B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 79 ]
+# # # # # # # # # # 
+#             H   # 
+#             B   # 
+#             B   # 
+# T           B   # 
+# B           B   # 
+# B           B   # 
+# B     F     B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 80 ]
+# # # # # # # # # # 
+#           H B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+# T           B   # 
+# B           B   # 
+# B     F     B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 81 ]
+# # # # # # # # # # 
+#         H B B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+# T           B   # 
+# B     F     B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 82 ]
+# # # # # # # # # # 
+#       H B B B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+# T     F     B   # 
+# B B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 83 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       H     B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+#       F     B   # 
+# T B B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 84 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       H     B   # 
+#             B   # 
+#             B   # 
+#             B   # 
+#       F     B   # 
+#   T B B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 85 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       H     B   # 
+#             B   # 
+#             B   # 
+#       F     B   # 
+#     T B B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 86 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       H     B   # 
+#             B   # 
+#       F     B   # 
+#       T B B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 87 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       H     B   # 
+#       F     B   # 
+#         T B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 88 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       H F   B   # 
+#         T B B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 89 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#     H B F   B   # 
+#           T B   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 90 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#     B B F   B   # 
+#     H       T   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 91 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#     B B F   T   # 
+#     B H         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 92 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     T   # 
+#     B B F       # 
+#     B B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 93 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B F   B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     T   # 
+#     B B H       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 94 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B F   B   # 
+#       B     B   # 
+#       B     B   # 
+#       B     T   # 
+#       B H       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 95 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B F   B   # 
+#       B     B   # 
+#       B     T   # 
+#       B H       # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 96 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B F   B   # 
+#       B     T   # 
+#       B H       # 
+#       B B       # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 97 ]
+# # # # # # # # # # 
+#       B B B B   # 
+#       B F   T   # 
+#       B H       # 
+#       B B       # 
+#       B B       # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 98 ]
+# # # # # # # # # # 
+#       B B B B   # 
+# F     B H   T   # 
+#       B B       # 
+#       B B       # 
+#       B B       # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 99 ]
+# # # # # # # # # # 
+#       B B B T   # 
+# F     B B H     # 
+#       B B       # 
+#       B B       # 
+#       B B       # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 100 ]
+# # # # # # # # # # 
+#       B B T     # 
+# F     B B B     # 
+#       B B H     # 
+#       B B       # 
+#       B B       # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 101 ]
+# # # # # # # # # # 
+#       B T       # 
+# F     B B B     # 
+#       B B B     # 
+#       B B H     # 
+#       B B       # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 102 ]
+# # # # # # # # # # 
+#       T         # 
+# F     B B B     # 
+#       B B B     # 
+#       B B B     # 
+#       B B H     # 
+#       B B       # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 103 ]
+# # # # # # # # # # 
+#                 # 
+# F     T B B     # 
+#       B B B     # 
+#       B B B     # 
+#       B B B     # 
+#       B B H     # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 104 ]
+# # # # # # # # # # 
+#                 # 
+# F       B B     # 
+#       T B B     # 
+#       B B B     # 
+#       B B B     # 
+#       B B B H   # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 105 ]
+# # # # # # # # # # 
+#                 # 
+# F       B B     # 
+#         B B     # 
+#       T B B     # 
+#       B B B H   # 
+#       B B B B   # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 106 ]
+# # # # # # # # # # 
+#                 # 
+# F       B B     # 
+#         B B     # 
+#         B B H   # 
+#       T B B B   # 
+#       B B B B   # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 107 ]
+# # # # # # # # # # 
+#                 # 
+# F       B B     # 
+#         B B H   # 
+#         B B B   # 
+#         B B B   # 
+#       T B B B   # 
+#     B B B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 108 ]
+# # # # # # # # # # 
+#                 # 
+# F       B B H   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#     B T B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 109 ]
+# # # # # # # # # # 
+#             H   # 
+# F       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#     T   B       # 
+#     B B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 110 ]
+# # # # # # # # # # 
+#           H B   # 
+# F       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B       # 
+#     T B B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 111 ]
+# # # # # # # # # # 
+#         H B B   # 
+# F       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B       # 
+#       T B       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 112 ]
+# # # # # # # # # # 
+#       H B B B   # 
+# F       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B       # 
+#         T       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 113 ]
+# # # # # # # # # # 
+#     H B B B B   # 
+# F       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         T       # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 114 ]
+# # # # # # # # # # 
+#   H B B B B B   # 
+# F       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         T B B   # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 115 ]
+# # # # # # # # # # 
+# H B B B B B B   # 
+# F       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         T B B   # 
+#           B B   # 
+#                 # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 116 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# H       B B B   # 
+#         B B B   # 
+#         B B B   # 
+#         T B B   # 
+#           B B   # 
+#                 # 
+#   F             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 117 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B       B B B   # 
+# H       B B B   # 
+#         T B B   # 
+#           B B   # 
+#           B B   # 
+#                 # 
+#   F             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 118 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B       B B B   # 
+# B       T B B   # 
+# H         B B   # 
+#           B B   # 
+#           B B   # 
+#                 # 
+#   F             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 119 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B       T B B   # 
+# B         B B   # 
+# B         B B   # 
+# H         B B   # 
+#           B B   # 
+#                 # 
+#   F             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 120 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B         T B   # 
+# B         B B   # 
+# B         B B   # 
+# B         B B   # 
+# H         B B   # 
+#                 # 
+#   F             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 121 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B         T B   # 
+# B         B B   # 
+# B         B B   # 
+# B         B B   # 
+# H               # 
+#   F             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 122 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B         T B   # 
+# B         B B   # 
+# B         B B   # 
+# B               # 
+# H F             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 123 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B         T B   # 
+# B         B B   # 
+# B     F   B B   # 
+# B               # 
+# B H             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 124 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B         T B   # 
+# B     F   B B   # 
+# B               # 
+# B B H           # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 125 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B     F   T B   # 
+# B               # 
+# B B B H         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 126 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B     F     T   # 
+# B     H         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 127 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B           B F # 
+# B     H     T   # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 128 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B           B   # 
+# B           T F # 
+# B     B H       # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 129 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           B   # 
+# B           T   # 
+# B             F # 
+# B     B B H     # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 130 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           B   # 
+# B           T   # 
+# B               # 
+# B             F # 
+# B     B B B H   # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 131 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           T   # 
+# B               # 
+# B               # 
+# B             F # 
+# B     B B B B H # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 132 ]
+# # # # # # # # # # 
+# B B B B B B B   # 
+# B           T   # 
+# B     F         # 
+# B               # 
+# B             H # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 133 ]
+# # # # # # # # # # 
+# B B B B B B T   # 
+# B               # 
+# B     F         # 
+# B             H # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 134 ]
+# # # # # # # # # # 
+# B B B B B T     # 
+# B               # 
+# B     F       H # 
+# B             B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 135 ]
+# # # # # # # # # # 
+# B B B B T       # 
+# B               # 
+# B     F     H B # 
+# B             B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 136 ]
+# # # # # # # # # # 
+# B B B T         # 
+# B               # 
+# B     F   H B B # 
+# B             B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 137 ]
+# # # # # # # # # # 
+# B B T           # 
+# B               # 
+# B     F H B B B # 
+# B             B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 138 ]
+# # # # # # # # # # 
+# B B T           # 
+# B               # 
+# B     H B B B B # 
+# B             B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 139 ]
+# # # # # # # # # # 
+# B T             # 
+# B               # 
+# B     B B B B B # 
+# B     H       B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 140 ]
+# # # # # # # # # # 
+# T               # 
+# B               # 
+# B     B B B B B # 
+# B     B H     B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 141 ]
+# # # # # # # # # # 
+#                 # 
+# T               # 
+# B     B B B B B # 
+# B     B B H   B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 142 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+# T     B B B B B # 
+# B     B B B H B # 
+# B             B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 143 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       B B B B B # 
+# T     B B B B B # 
+# B           H B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 144 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       B B B B B # 
+#       B B B B B # 
+# T         H B B # 
+# B     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 145 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       B B B B B # 
+#       B B B B B # 
+#         H B B B # 
+# T     B B B B B # 
+# B     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 146 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       B B B B B # 
+#       B B B B B # 
+#       H B B B B # 
+#       B B B B B # 
+# T     B         # 
+# B B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 147 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       B B B B B # 
+#       B B B B B # 
+#     H B B B B B # 
+#       B B B B B # 
+#       B         # 
+# T B B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 148 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       B B B B B # 
+#     H B B B B B # 
+#     B B B B B B # 
+#       B B B B B # 
+#       B         # 
+#   T B B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 149 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#     H B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#       B B B B B # 
+#       B         # 
+#     T B     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 150 ]
+# # # # # # # # # # 
+#                 # 
+#     H           # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#       B B B B B # 
+#       B         # 
+#       T     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 151 ]
+# # # # # # # # # # 
+#                 # 
+#     B H         # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#       B B B B B # 
+#       T         # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 152 ]
+# # # # # # # # # # 
+#       H         # 
+#     B B         # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#       T B B B B # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 153 ]
+# # # # # # # # # # 
+#     H B         # 
+#     B B         # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#         T B B B # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 154 ]
+# # # # # # # # # # 
+#   H B B         # 
+#     B B         # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#           T B B # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 155 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   H B B         # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#             T B # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 156 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   H B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#               T # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 157 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B B B B B B # 
+#   H B B B B B B # 
+#     B B B B B T # 
+#                 # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 158 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B B B B B B # 
+#   B B B B B B T # 
+#   H B B B B B   # 
+#                 # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 159 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B B B B B T # 
+#   B B B B B B   # 
+#   B B B B B B   # 
+#   H             # 
+#                 # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 160 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B B B B T   # 
+#   B B B B B B   # 
+#   B B B B B B   # 
+#   B             # 
+#   H             # 
+#             F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 161 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B B B T     # 
+#   B B B B B B   # 
+#   B B B B B B   # 
+#   B             # 
+#   B             # 
+#   H         F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 162 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B B T       # 
+#   B B B B B B   # 
+#   B B B B B B   # 
+#   B             # 
+#   B             # 
+#   B H       F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 163 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B T         # 
+#   B B B B B B   # 
+#   B B B B B B   # 
+#   B             # 
+#   B             # 
+#   B B H     F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 164 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B           # 
+#   B B T B B B   # 
+#   B B B B B B   # 
+#   B             # 
+#   B             # 
+#   B B B H   F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 165 ]
+# # # # # # # # # # 
+#   B B B         # 
+#   B B B         # 
+#   B B           # 
+#   B B   T B B   # 
+#   B B B B B B   # 
+#   B             # 
+#   B             # 
+#   B B B B H F   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 166 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B         # 
+#   B B           # 
+#   B B   T B B   # 
+#   B B B B B B   # 
+#   B             # 
+#   B             # 
+#   B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 167 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B         # 
+#   B B           # 
+#   B B     T B   # 
+#   B B B B B B   # 
+#   B             # 
+#   B             # 
+#   B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 168 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B         # 
+#   B B           # 
+#   B B       T   # 
+#   B B B B B B   # 
+#   B             # 
+#   B           H # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 169 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B         # 
+#   B B           # 
+#   B B           # 
+#   B B B B B T   # 
+#   B           H # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 170 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B         # 
+#   B B           # 
+#   B B           # 
+#   B B B B T   H # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 171 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B         # 
+#   B B           # 
+#   B B         H # 
+#   B B B T     B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 172 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B         # 
+#   B B         H # 
+#   B B         B # 
+#   B B T       B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 173 ]
+# # # # # # # # # # 
+#   B B B   F     # 
+#   B B B       H # 
+#   B B         B # 
+#   B B         B # 
+#   B T         B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 174 ]
+# # # # # # # # # # 
+#   B B B   F   H # 
+#   B B B       B # 
+#   B B         B # 
+#   B T         B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 175 ]
+# # # # # # # # # # 
+#   B B B   F H B # 
+#   B B B       B # 
+#   B T         B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 176 ]
+# # # # # # # # # # 
+#   B B B   H B B # 
+#   B B B       B # 
+#   B T   F     B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 177 ]
+# # # # # # # # # # 
+#   B B B H B B B # 
+#   B T B       B # 
+#   B     F     B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 178 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B   T H     B # 
+#   B     F     B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 179 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B   T B     B # 
+#   B     H     B # 
+#   B           B # 
+#   B           B # 
+#   B     F     B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 180 ]
+# # # # # # # # # # 
+#   B B T B B B B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     H     B # 
+#   B           B # 
+#   B     F     B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 181 ]
+# # # # # # # # # # 
+#   B T   B B B B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     H     B # 
+#   B     F     B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 182 ]
+# # # # # # # # # # 
+#   B T   B B B B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     H     B # 
+#   B           B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 183 ]
+# # # # # # # # # # 
+#   T     B B B B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     B H   B # 
+#   B           B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 184 ]
+# # # # # # # # # # 
+#         B B B B # 
+#   T     B     B # 
+#   B     B     B # 
+#   B     B     B # 
+#   B     B H   B # 
+#   B     B B   B # 
+#   B           B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 185 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#   T     B     B # 
+#   B     B     B # 
+#   B     B B H B # 
+#   B     B B   B # 
+#   B           B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 186 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#   T     B     B # 
+#   B     B B B B # 
+#   B     B B H B # 
+#   B           B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 187 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#   T     B B B B # 
+#   B     B B B B # 
+#   B         H B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 188 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#   T     B B B B # 
+#   B       H B B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 189 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#         B B B B # 
+#   T     H B B B # 
+# F B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 190 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#         B B B B # 
+#       H B B B B # 
+# F T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 191 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#         B B B B # 
+#     H B B B B B # 
+# F   T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 192 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#         B B B B # 
+#   H B B B B B B # 
+# F     T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 193 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#         B B B B # 
+# H B B B B B B B # 
+# F       T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 194 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# H       T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 195 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B H       T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 196 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B H       T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 197 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B H       T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 198 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B T # 
+# B B B B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 199 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B B # 
+#       F B B B T # 
+# B B B B B B B   # 
+# B B B B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 200 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     B # 
+#         B B B T # 
+#       F B B B   # 
+# B B B B B B B   # 
+# B B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 201 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     B # 
+#         B     T # 
+#         B B B   # 
+#       F B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 202 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     B # 
+#         B     T # 
+#         B       # 
+#         B B B   # 
+#       F B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 203 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         B     T # 
+#         B       # 
+#         B       # 
+#         B B B   # 
+#       F B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 204 ]
+# # # # # # # # # # 
+#         B B B T # 
+#         B       # 
+#         B       # 
+#         B       # 
+#         B B B H # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 205 ]
+# # # # # # # # # # 
+#         B B T   # 
+#         B       # 
+#         B       # 
+#         B     H # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 206 ]
+# # # # # # # # # # 
+#         B T     # 
+#         B       # 
+#         B       # 
+#         B   H B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 207 ]
+# # # # # # # # # # 
+#         T       # 
+#         B       # 
+#         B       # 
+#         B H B B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 208 ]
+# # # # # # # # # # 
+#                 # 
+#         T       # 
+#         B H     # 
+#         B B B B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 209 ]
+# # # # # # # # # # 
+#                 # 
+#           H     # 
+#         T B     # 
+#         B B B B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 210 ]
+# # # # # # # # # # 
+#                 # 
+#         H B     # 
+#           B     # 
+#         T B B B # 
+#         B B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 211 ]
+# # # # # # # # # # 
+#                 # 
+#       H B B     # 
+#           B     # 
+#           B B B # 
+#         T B B B # 
+#       F B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 212 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       H   B     # 
+#           B B B # 
+#           B B B # 
+#       F T B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 213 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       H   B B B # 
+#           B B B # 
+#       F   T B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 214 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       H   T B B # 
+#       F     B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 215 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B F T B B # 
+#       H     B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 216 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B F   T B # 
+#       B H   B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 217 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B H   T B # 
+#     F B B   B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 218 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B H   B # 
+#     F B B   T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 219 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B B H B # 
+#     F B B     B # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 220 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B B B B # 
+#     F B B   H B # 
+# B B B B B T   B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 221 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B B B B # 
+#     F B B   B B # 
+# B B B B T   H B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 222 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B B B B # 
+#     F B B   B B # 
+# B B B T   H B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 223 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B B B B # 
+#     F B B   B B # 
+# B B T   H B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 224 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B B B B # 
+#     F B B   B B # 
+# B T   H B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 225 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#       B   B B B # 
+#       B B B B B # 
+#     F B B   B B # 
+# T   H B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 226 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#   F   B   B B B # 
+#       B B B B B # 
+#     H B B   B B # 
+# T   B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 227 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#   F   B   B B B # 
+#     H B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+# T B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 228 ]
+# # # # # # # # # # 
+#                 # 
+#       B B B     # 
+#       B   B     # 
+#   F H B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 229 ]
+# # # # # # # # # # 
+#             F   # 
+#       B B B     # 
+#       B   B     # 
+#   H B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 230 ]
+# # # # # # # # # # 
+#             F   # 
+#       B B B     # 
+#   H   B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 231 ]
+# # # # # # # # # # 
+#             F   # 
+#       B B B     # 
+#   B H B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#       T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 232 ]
+# # # # # # # # # # 
+#             F   # 
+#     H B B B     # 
+#   B B B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#         T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 233 ]
+# # # # # # # # # # 
+#     H       F   # 
+#     B B B B     # 
+#   B B B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#           T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 234 ]
+# # # # # # # # # # 
+#   H B       F   # 
+#     B B B B     # 
+#   B B B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#             T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 235 ]
+# # # # # # # # # # 
+# H B B       F   # 
+#     B B B B     # 
+#   B B B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B B # 
+#               T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 236 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# H   B B B B     # 
+#   B B B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B B # 
+#     B B B B B T # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 237 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B B B     # 
+# H B B B   B     # 
+#   B B B   B B B # 
+#     B B B B B B # 
+#     B B B   B T # 
+#     B B B B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 238 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B B B     # 
+# B B B B   B     # 
+# H B B B   B B B # 
+#     B B B B B T # 
+#     B B B   B   # 
+#     B B B B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 239 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B B B     # 
+# B B B B   B     # 
+# B B B B   B B T # 
+# H   B B B B B   # 
+#     B B B   B   # 
+#     B B B B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 240 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B B B     # 
+# B B B B   B     # 
+# B B B B   B T   # 
+# B H B B B B B   # 
+#     B B B   B   # 
+#     B B B B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 241 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B B B     # 
+# B B B B   B     # 
+# B B B B   T     # 
+# B B B B B B B   # 
+#   H B B B   B   # 
+#     B B B B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 242 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B B B     # 
+# B B B B   T     # 
+# B B B B         # 
+# B B B B B B B   # 
+#   B B B B   B   # 
+#   H B B B B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 243 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B B T     # 
+# B B B B         # 
+# B B B B         # 
+# B B B B B B B   # 
+#   B B B B   B   # 
+#   B B B B B B   # 
+#   H             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 244 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B B T       # 
+# B B B B         # 
+# B B B B         # 
+# B B B B B B B   # 
+#   B B B B   B   # 
+#   B B B B B B   # 
+#   B H           # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 245 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B T         # 
+# B B B B         # 
+# B B B B         # 
+# B B B B B B B   # 
+#   B B B B   B   # 
+#   B B B B B B   # 
+#   B B H         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 246 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B T         # 
+# B B B B         # 
+# B B B B B B B   # 
+#   B B B B   B   # 
+#   B B B B B B   # 
+#   B B B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 247 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B           # 
+# B B B T         # 
+# B B B B B B B   # 
+#   B B B B   B   # 
+#   B B B B B B   # 
+#   B B B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 248 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B           # 
+# B B B           # 
+# B B B T B B B   # 
+#   B B B B   B   # 
+#   B B B B B B   # 
+#   B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 249 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B           # 
+# B B B           # 
+# B B B   B B B   # 
+#   B B T B   B   # 
+#   B B B B B B   # 
+#   B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 250 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B           # 
+# B B B           # 
+# B B B   B B B   # 
+#   B B   T   B   # 
+#   B B B B B B H # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 251 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B           # 
+# B B B           # 
+# B B B   T B B   # 
+#   B B       B H # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 252 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B           # 
+# B B B           # 
+# B B B     T B H # 
+#   B B       B B # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 253 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B           # 
+# B B B         H # 
+# B B B       T B # 
+#   B B       B B # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 254 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B           # 
+# B B B         H # 
+# B B B         B # 
+# B B B         B # 
+#   B B       T B # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 255 ]
+# # # # # # # # # # 
+# B B B       F   # 
+# B   B         H # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+#   B B         B # 
+#   B B B B B T B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 256 ]
+# # # # # # # # # # 
+# B B B       F H # 
+# B   B         B # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+#   B B         B # 
+#   B B B B T   B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 257 ]
+# # # # # # # # # # 
+# B B B       H B # 
+# B   B       F B # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+#   B B         B # 
+#   B B B B T   B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 258 ]
+# # # # # # # # # # 
+# B B B       B B # 
+# B   B       H B # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+# F B B         B # 
+#   B B B B T   B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 259 ]
+# # # # # # # # # # 
+# B B B       B B # 
+# B   B     H B B # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+# F B B         B # 
+#   B B B T     B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 260 ]
+# # # # # # # # # # 
+# B B B     H B B # 
+# B   B     B B B # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+# F B B         B # 
+#   B B T       B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 261 ]
+# # # # # # # # # # 
+# B B B   H B B B # 
+# B   B     B B B # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+# F B B         B # 
+#   B T         B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 262 ]
+# # # # # # # # # # 
+# B B B H B B B B # 
+# B   B     B B B # 
+# B B B         B # 
+# B B B         B # 
+# B B B         B # 
+# F B T         B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 263 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B H   B B B # 
+# B B B         B # 
+# B B B         B # 
+# B B T         B # 
+# F B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 264 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B H B B B # 
+# B B B         B # 
+# B B T         B # 
+# B B           B # 
+# F B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 265 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B B B   H     B # 
+# B T           B # 
+# B B           B # 
+# F B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 266 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B T B   B H   B # 
+# B             B # 
+# B B           B # 
+# F B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 267 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   T   B B H B # 
+# B             B # 
+# B B           B # 
+# F B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 268 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   T B B B B B # 
+# B       B B B B # 
+# B           H B # 
+# B B           B # 
+# F B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 269 ]
+# # # # # # # # # # 
+# B B T B B B B B # 
+# B     B B B B B # 
+# B       B B B B # 
+# B           B B # 
+# B B         H B # 
+# F B           B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 270 ]
+# # # # # # # # # # 
+# B T   B B B B B # 
+# B     B B B B B # 
+# B       B B B B # 
+# B           B B # 
+# B B         B B # 
+# F B         H B # 
+#   B           B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 271 ]
+# # # # # # # # # # 
+# T     B B B B B # 
+# B     B B B B B # 
+# B       B B B B # 
+# B           B B # 
+# B B         B B # 
+# F B         B B # 
+#   B         H B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 272 ]
+# # # # # # # # # # 
+#       B B B B B # 
+# T     B B B B B # 
+# B       B B B B # 
+# B           B B # 
+# B B         B B # 
+# F B         B B # 
+#   B       H B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 273 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+# T       B B B B # 
+# B           B B # 
+# B B         B B # 
+# F B       H B B # 
+#   B       B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 274 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+# T           B B # 
+# B B         B B # 
+# F B     H B B B # 
+#   B       B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 275 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+#             B B # 
+# T B     H   B B # 
+# F B     B B B B # 
+#   B       B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 276 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+#             B B # 
+#   T     B H B B # 
+# F B     B B B B # 
+#   B       B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 277 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+#           H B B # 
+#         B B B B # 
+# F T     B B B B # 
+#   B       B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 278 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+#         H B B B # 
+#         B B B B # 
+# F       B B B B # 
+#   T       B B B # 
+#   B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 279 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+#       H B B B B # 
+#         B B B B # 
+# F       B B B B # 
+#           B B B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 280 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+#     H B B B B B # 
+#         B B B B # 
+# F       B B B B # 
+#           B B B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 281 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+#   H B B B B B B # 
+#         B B B B # 
+# F       B B B B # 
+#           B B B # 
+#       T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 282 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+# H B B B B B B B # 
+#         B B B B # 
+# F       B B B B # 
+#           B B B # 
+#         T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 283 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#         B B B B # 
+# B B B B B B B B # 
+# H       B B B B # 
+# F       B B B B # 
+#           B B B # 
+#           T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 284 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B B # 
+# B B B B B B B B # 
+# B       B B B B # 
+# H       B B B B # 
+#           B B B # 
+#           T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 285 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B B # 
+# B B B B B B B B # 
+# B       B B B B # 
+# B H     B B B B # 
+#           B B B # 
+#             T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 286 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B B # 
+# B B B B B B B B # 
+# B H     B B B B # 
+# B B     B B B B # 
+#           B B B # 
+#               T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 287 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B B # 
+# B B B B B B B B # 
+# B B H   B B B B # 
+# B B     B B B B # 
+#           B B T # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 288 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B B # 
+# B B B B B B B B # 
+# B B B H B B B B # 
+# B B     B B B T # 
+#           B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 289 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B B # 
+# B B B B B B B B # 
+# B B B B B B B T # 
+# B B   H B B B   # 
+#           B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 290 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B B # 
+# B B B B B B B T # 
+# B B B B B B B   # 
+# B B H B B B B   # 
+#           B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 291 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B B # 
+#   F     B B B T # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+#     H     B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 292 ]
+# # # # # # # # # # 
+#       B B B B B # 
+#       B B B B T # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+#   H B     B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 293 ]
+# # # # # # # # # # 
+#       B B B B T # 
+#       B B B B   # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# H B B     B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 294 ]
+# # # # # # # # # # 
+#       B B B T   # 
+#       B B B B   # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B     B B   # 
+# H               # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 295 ]
+# # # # # # # # # # 
+#       B B B     # 
+#       B B B T   # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B     B B   # 
+# B H             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 296 ]
+# # # # # # # # # # 
+#       B B B     # 
+#       B B T     # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B     B B   # 
+# B B H           # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 297 ]
+# # # # # # # # # # 
+#       B B T     # 
+#       B B       # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B     B B   # 
+# B B B H         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 298 ]
+# # # # # # # # # # 
+#       B T       # 
+#       B B       # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B H   B B   # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 299 ]
+# # # # # # # # # # 
+#       T         # 
+#       B B       # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B H B B   # 
+# B B B B         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 300 ]
+# # # # # # # # # # 
+#                 # 
+#       T B       # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 301 ]
+# # # # # # # # # # 
+#                 # 
+#         T       # 
+#   F     B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 302 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   F     T B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 303 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   F       T B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 304 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   F         T   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 305 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   F             # 
+# B B B B B B T   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 306 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   F             # 
+# B B B B B B     # 
+# B B B B B B T H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 307 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   F             # 
+# B B B B B B   H # 
+# B B B B B B   B # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 308 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   F           H # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 309 ]
+# # # # # # # # # # 
+#                 # 
+#               H # 
+#   F           B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B T   B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 310 ]
+# # # # # # # # # # 
+#                 # 
+#             H B # 
+#   F           B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B T   B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 311 ]
+# # # # # # # # # # 
+#                 # 
+#           H B B # 
+#   F           B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B T     B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 312 ]
+# # # # # # # # # # 
+#                 # 
+#         H B B B # 
+#   F           B # 
+# B B B B B B   B # 
+# B B B B T B   B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 313 ]
+# # # # # # # # # # 
+#                 # 
+#       H B B B B # 
+#   F           B # 
+# B B B B B B   B # 
+# B B B B   T   B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 314 ]
+# # # # # # # # # # 
+#                 # 
+#     H B B B B B # 
+#   F           B # 
+# B B B B B T   B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 315 ]
+# # # # # # # # # # 
+#                 # 
+#   H B B B B B B # 
+#   F           B # 
+# B B B B T     B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 316 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   H           B # 
+# B B B B T     B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 317 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B H         B # 
+# B B B T       B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 318 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B H       B # 
+# B B T         B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 319 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B H     B # 
+# B T           B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 320 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B H   B # 
+# T             B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 321 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B H B # 
+#               B # 
+# T B B B       B # 
+# B B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 322 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#             H B # 
+#   B B B       B # 
+# T B B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 323 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#             B B # 
+#   B B B     H B # 
+#   T B B       B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 324 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#             B B # 
+#   T B B     B B # 
+#     B B     H B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 325 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#             B B # 
+#     T B     B B # 
+#     B B     B B # 
+# B B B B B   H B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 326 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#             B B # 
+#       T     B B # 
+#     B B     B B # 
+# B B B B B H B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 327 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#             B B # 
+#             B B # 
+#     B T   H B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 328 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#             B B # 
+#           H B B # 
+#     T     B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 329 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#           H B B # 
+#           B B B # 
+#           B B B # 
+# B B T B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 330 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#         H B B B # 
+#           B B B # 
+#           B B B # 
+# B T   B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 331 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#         B B B B # 
+#         H B B B # 
+#           B B B # 
+# T     B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 332 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#         B B B B # 
+#         B B B B # 
+#         H B B B # 
+#       B B B B B # 
+# T B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 333 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#         B B B B # 
+#         B B B B # 
+#       H B B B B # 
+#       B B B B B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 334 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#         B B B B # 
+#       H B B B B # 
+#       B B B B B # 
+#       B B B B B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 335 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#       H B B B B # 
+#       B B B B B # 
+#       B B B B B # 
+#       B B B B B # 
+#       T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 336 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#     H B B B B B # 
+#       B B B B B # 
+#       B B B B B # 
+#       T B B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 337 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#   H B B B B B B # 
+#       B B B B B # 
+#       B B B B B # 
+#         T B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 338 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# H B B B B B B B # 
+#       B B B B B # 
+#       B B B B B # 
+#           B B B # 
+#         T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 339 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# H     B B B B B # 
+#       B B B B B # 
+#           B B B # 
+#           T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 340 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B H   B B B B B # 
+#       B B B B B # 
+#           B B B # 
+#             T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 341 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B H B B B B B # 
+#       B B B B B # 
+#           B B B # 
+#               T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 342 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#     H B B B B B # 
+#           B B T # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 343 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   H B B B B B T # 
+#           B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 344 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B T # 
+# H B B B B B B   # 
+#           B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 345 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B T # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# H         B B   # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 346 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B B # 
+#   B B B B B B T # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B         B B   # 
+# H               # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 347 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B B T # 
+#   B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B         B B   # 
+# B H             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 348 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B B T   # 
+#   B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B H       B B   # 
+# B B             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 349 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B B T     # 
+#   B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B H     B B   # 
+# B B             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 350 ]
+# # # # # # # # # # 
+# F               # 
+#   B B B T       # 
+#   B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B H   B B   # 
+# B B             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 351 ]
+# # # # # # # # # # 
+# F               # 
+#   B B T         # 
+#   B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B H B B   # 
+# B B             # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 352 ]
+# # # # # # # # # # 
+# F               # 
+#   B T           # 
+#   B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B     H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 353 ]
+# # # # # # # # # # 
+# F               # 
+#   T             # 
+#   B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B     B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 354 ]
+# # # # # # # # # # 
+# F               # 
+#                 # 
+#   T B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B     B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 355 ]
+# # # # # # # # # # 
+# F               # 
+#                 # 
+#     T B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B     B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 356 ]
+# # # # # # # # # # 
+# F               # 
+#                 # 
+#       T B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 357 ]
+# # # # # # # # # # 
+# F               # 
+#                 # 
+#         T B B   # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 358 ]
+# # # # # # # # # # 
+# F               # 
+#                 # 
+#           T B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 359 ]
+# # # # # # # # # # 
+# F               # 
+#                 # 
+#             T   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 360 ]
+# # # # # # # # # # 
+# F               # 
+#                 # 
+#               H # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 361 ]
+# # # # # # # # # # 
+# F               # 
+#               H # 
+#               B # 
+# B B B B B B   B # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 362 ]
+# # # # # # # # # # 
+# F             H # 
+#               B # 
+#               B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 363 ]
+# # # # # # # # # # 
+# F           H B # 
+#               B # 
+#               B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B B T B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 364 ]
+# # # # # # # # # # 
+# F         H B B # 
+#               B # 
+#               B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B T   B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 365 ]
+# # # # # # # # # # 
+# F       H B B B # 
+#               B # 
+#               B # 
+# B B B B B B   B # 
+# B B B B B B   B # 
+# B B B B B T   B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 366 ]
+# # # # # # # # # # 
+# F     H B B B B # 
+#               B # 
+#               B # 
+# B B B B B B   B # 
+# B B B B B T   B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 367 ]
+# # # # # # # # # # 
+# F   H B B B B B # 
+#               B # 
+#               B # 
+# B B B B B T   B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 368 ]
+# # # # # # # # # # 
+# F H B B B B B B # 
+#               B # 
+#               B # 
+# B B B B T     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 369 ]
+# # # # # # # # # # 
+# H B B B B B B B # 
+#               B # 
+#         F     B # 
+# B B B B T     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 370 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# H             B # 
+#         F     B # 
+# B B B B       B # 
+# B B B B T     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 371 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# H       F     B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B B T     B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 372 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B H     F     B # 
+# B B B B       B # 
+# B B B B       B # 
+# B B B T       B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 373 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B H   F     B # 
+# B B B B       B # 
+# B B B T       B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 374 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B H F     B # 
+# B B B T       B # 
+# B B B         B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 375 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B H     B # 
+# B B B T       B # 
+# B B B F       B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 376 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B T   H     B # 
+# B B B F       B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 377 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B T     B     B # 
+# B B B F H     B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B     B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 378 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B T     B     B # 
+# B B B H B     B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 379 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# T     H B     B # 
+# B B B B B     B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 380 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+#     H B B     B # 
+# T B B B B     B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 381 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+#   H B B B     B # 
+#   T B B B     B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 382 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# H B B B B     B # 
+#     T B B     B # 
+# B B B         B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 383 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# H     B B     B # 
+# B B T         B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 384 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B H   B B     B # 
+# B T           B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 385 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B H B B     B # 
+# T             B # 
+# B B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 386 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+#     H         B # 
+# T B B B B     B # 
+# B B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 387 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+#   H B         B # 
+#   B B B B     B # 
+# T B F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 388 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# H B B         B # 
+#   B B B B     B # 
+#   T F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 389 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B         B # 
+# H T B B B     B # 
+#     F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 390 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B         B # 
+# B   T B B     B # 
+# H   F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 391 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B         B # 
+# B     T B     B # 
+# B H F   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 392 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B         B # 
+# B   F T B     B # 
+# B B H   B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 393 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B         B # 
+# B   F   T     B # 
+# B B B H B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 394 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B         B # 
+# B   F H       B # 
+# B B B B T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 395 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B H       B # 
+# B   F B       B # 
+# B B B B   T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 396 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B H     B # 
+# B   F B       B # 
+# B B B B     T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 397 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B   F B H     B # 
+# B B B B       T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 398 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B   F B B     T # 
+# B B B B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 399 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     T # 
+# B   F B B       # 
+# B B B B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 400 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     B # 
+# B B B B B     T # 
+# B B B B B       # 
+# B   F B B H     # 
+# B B B B B B     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 401 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     B # 
+# B B B B B     T # 
+# B B B B B       # 
+# B B B B B       # 
+# B   F B B B H   # 
+# B B B B B B     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 402 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             B # 
+# B B B B B     T # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B   F B B B B   # 
+# B B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 403 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B             T # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B   F B B B B   # 
+# B B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 404 ]
+# # # # # # # # # # 
+# B B B B B B B T # 
+# B               # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B   F B B B B H # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 405 ]
+# # # # # # # # # # 
+# B B B B B B T   # 
+# B               # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B     H # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 406 ]
+# # # # # # # # # # 
+# B B B B B T     # 
+# B               # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B   H B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 407 ]
+# # # # # # # # # # 
+# B B B B T       # 
+# B               # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B H B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 408 ]
+# # # # # # # # # # 
+# B B B T         # 
+# B               # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B H     # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 409 ]
+# # # # # # # # # # 
+# B B T           # 
+# B               # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B B H   # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 410 ]
+# # # # # # # # # # 
+# B T             # 
+# B               # 
+# B B B B B       # 
+# B B B B B       # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 411 ]
+# # # # # # # # # # 
+# T               # 
+# B               # 
+# B B B B B       # 
+# B B B B B     H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 412 ]
+# # # # # # # # # # 
+#                 # 
+# T               # 
+# B B B B B       # 
+# B B B B B   H B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 413 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+# T B B B B       # 
+# B B B B B H B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 414 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#   T B B B H     # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 415 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#     T B B B H   # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 416 ]
+# # # # # # # # # # 
+#                 # 
+#                 # 
+#       T B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 417 ]
+# # # # # # # # # # 
+#                 # 
+#               H # 
+#         T B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 418 ]
+# # # # # # # # # # 
+#               H # 
+#               B # 
+#           B B B # 
+# B B B B T B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 419 ]
+# # # # # # # # # # 
+#             H B # 
+#               B # 
+#           B B B # 
+# B B B B   B B B # 
+# B B B B T B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 420 ]
+# # # # # # # # # # 
+#             B B # 
+#             H B # 
+#           B B B # 
+# B B B B   B B B # 
+# B B B T   B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 421 ]
+# # # # # # # # # # 
+#             B B # 
+#           H B B # 
+#           B B B # 
+# B B B T   B B B # 
+# B B B     B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 422 ]
+# # # # # # # # # # 
+#           H B B # 
+#           B B B # 
+#           B B B # 
+# B B T     B B B # 
+# B B B     B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 423 ]
+# # # # # # # # # # 
+#         H B B B # 
+#           B B B # 
+#           B B B # 
+# B T       B B B # 
+# B B B     B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 424 ]
+# # # # # # # # # # 
+#         B B B B # 
+#         H B B B # 
+#           B B B # 
+# T         B B B # 
+# B B B     B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 425 ]
+# # # # # # # # # # 
+#         B B B B # 
+#       H B B B B # 
+#           B B B # 
+#           B B B # 
+# T B B     B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 426 ]
+# # # # # # # # # # 
+#       H B B B B # 
+#       B B B B B # 
+#           B B B # 
+#           B B B # 
+#   T B     B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 427 ]
+# # # # # # # # # # 
+#     H B B B B B # 
+#       B B B B B # 
+#           B B B # 
+#           B B B # 
+#     T     B B B # 
+# B B B B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 428 ]
+# # # # # # # # # # 
+#   H B B B B B B # 
+#       B B B B B # 
+#           B B B # 
+#           B B B # 
+#           B B B # 
+# B B T B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 429 ]
+# # # # # # # # # # 
+# H B B B B B B B # 
+#       B B B B B # 
+#           B B B # 
+#           B B B # 
+#           B B B # 
+# B T   B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 430 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# H     B B B B B # 
+#           B B B # 
+#           B B B # 
+#           B B B # 
+# T     B B B B B # 
+# B   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 431 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# H         B B B # 
+#           B B B # 
+#           B B B # 
+#       B B B B B # 
+# T   F B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 432 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B         B B B # 
+# H         B B B # 
+#           B B B # 
+#       B B B B B # 
+#     F B B B B B # 
+# T B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 433 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B         B B B # 
+# B         B B B # 
+# H         B B B # 
+#       B B B B B # 
+#     F B B B B B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 434 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B         B B B # 
+# B         B B B # 
+# B         B B B # 
+# H     B B B B B # 
+#     F B B B B B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 435 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B         B B B # 
+# B         B B B # 
+# B         B B B # 
+# B     B B B B B # 
+# H   F B B B B B # 
+#       T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 436 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B         B B B # 
+# B         B B B # 
+# B         B B B # 
+# B     B B B B B # 
+# B H F T B B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 437 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B   F     B B B # 
+# B         B B B # 
+# B         B B B # 
+# B     B B B B B # 
+# B B H T B B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 438 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B   F     B B B # 
+# B         B B B # 
+# B         B B B # 
+# B   H T B B B B # 
+# B B B   B B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 439 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B   F     B B B # 
+# B         B B B # 
+# B   H     B B B # 
+# B   B   T B B B # 
+# B B B   B B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 440 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B   F     B B B # 
+# B   H     B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B B B   T B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 441 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F H     B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B B B   T B B B # 
+#         B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 442 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B H   B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B B B     B B B # 
+#         T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 443 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B H B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B B B     B B B # 
+#           T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 444 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B   H B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B B B     T B B # 
+#             B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 445 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B H B B B B # 
+# B   B     B B B # 
+# B   B     B B B # 
+# B B B       T B # 
+#             B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 446 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B H   B B B # 
+# B   B     B B B # 
+# B B B         B # 
+#             T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 447 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B H B B B # 
+# B   B     B B B # 
+# B B B         B # 
+#               T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 448 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B   H B B B # 
+# B B B         T # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 449 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B H B B B T # 
+# B B B           # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 450 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B T   # 
+# B B B H         # 
+#                 # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 451 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B T     # 
+# B B B B         # 
+#       H         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 452 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B B T B B # 
+# B   B B B       # 
+# B B B B         # 
+#       B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 453 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B B   T B # 
+# B   B B B       # 
+# B B B B         # 
+#       B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 454 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B   B B B     T # 
+# B   B B B       # 
+# B B B B         # 
+#       B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 455 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B T # 
+# B   B B B       # 
+# B   B B B       # 
+# B B B B         # 
+#       B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 456 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B B T   # 
+# B   B B B       # 
+# B   B B B       # 
+# B B B B       H # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 457 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B B B B # 
+# B   B B B T     # 
+# B   B B B       # 
+# B   B B B       # 
+# B B B B     H B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 458 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B T B B # 
+# B   B B B       # 
+# B   B B B       # 
+# B   B B B       # 
+# B B B B   H B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 459 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B   T B # 
+# B   B B B       # 
+# B   B B B       # 
+# B   B B B H     # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 460 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B B # 
+# B F B B B     T # 
+# B   B B B       # 
+# B   B B B       # 
+# B   B B B B H   # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 461 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B     B B B B T # 
+# B F B B B       # 
+# B   B B B       # 
+# B   B B B       # 
+# B   B B B B B H # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 462 ]
+# # # # # # # # # # 
+# B B B B B B B T # 
+# B     B B B B   # 
+# B F B B B       # 
+# B   B B B       # 
+# B   B B B     H # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 463 ]
+# # # # # # # # # # 
+# B B B B B B T   # 
+# B     B B B B   # 
+# B F B B B       # 
+# B   B B B       # 
+# B   B B B   H B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 464 ]
+# # # # # # # # # # 
+# B B B B B B     # 
+# B     B B B T   # 
+# B F B B B       # 
+# B   B B B       # 
+# B   B B B H B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 465 ]
+# # # # # # # # # # 
+# B B B B B B     # 
+# B     B B T     # 
+# B F B B B       # 
+# B   B B B H     # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 466 ]
+# # # # # # # # # # 
+# B B B B B T     # 
+# B     B B       # 
+# B F B B B       # 
+# B   B B B B H   # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 467 ]
+# # # # # # # # # # 
+# B B B B T       # 
+# B     B B       # 
+# B F B B B       # 
+# B   B B B B B H # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 468 ]
+# # # # # # # # # # 
+# B B B B         # 
+# B     B T       # 
+# B F B B B     H # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 469 ]
+# # # # # # # # # # 
+# B B B B         # 
+# B     T       H # 
+# B F B B B     B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 470 ]
+# # # # # # # # # # 
+# B B B T       H # 
+# B             B # 
+# B F B B B     B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 471 ]
+# # # # # # # # # # 
+# B B T       H B # 
+# B             B # 
+# B F B B B     B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 472 ]
+# # # # # # # # # # 
+# B T       H B B # 
+# B             B # 
+# B F B B B     B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 473 ]
+# # # # # # # # # # 
+# T       H B B B # 
+# B             B # 
+# B F B B B     B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 474 ]
+# # # # # # # # # # 
+#       H B B B B # 
+# T             B # 
+# B F B B B     B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 475 ]
+# # # # # # # # # # 
+#     H B B B B B # 
+#               B # 
+# T F B B B     B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 476 ]
+# # # # # # # # # # 
+#   H B B B B B B # 
+#               B # 
+#   F B B B     B # 
+# T   B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 477 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   H           B # 
+#   F B B B     B # 
+#     B B B B B B # 
+# T   B B B B B B # 
+# B   B B B B B B # 
+# B B B B   B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 478 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+#   H B B B     B # 
+#     B B B B B B # 
+# T   B B B B B B # 
+# B   B B B B B B # 
+# B B B B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 479 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# H B B B B     B # 
+#     B B B B B B # 
+#     B B B B B B # 
+# T   B B B B B B # 
+# B B B B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 480 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B B B B     B # 
+# H   B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+# T B B B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 481 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B B B B     B # 
+# B H B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#   T B B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 482 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+#   H B B B B B B # 
+#     B B B B B B # 
+#     T B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 483 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# H B B B B B B B # 
+#     T B B B B B # 
+#       B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 484 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# B B T B B B B B # 
+# H     B B B B B # 
+#       B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 485 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B B B B     B # 
+# B B T B B B B B # 
+# B B   B B B B B # 
+# B     B B B B B # 
+# H     B F B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 486 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B T B B     B # 
+# B B   B B B B B # 
+# B B   B B B B B # 
+# B     B B B B B # 
+# B     B F B B B # 
+# H     B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 487 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B   T B     B # 
+# B B   B B B B B # 
+# B B   B B B B B # 
+# B     B B B B B # 
+# B     B F B B B # 
+# B H   B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 488 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B     T     B # 
+# B B   B B B B B # 
+# B B   B B B B B # 
+# B     B B B B B # 
+# B     B F B B B # 
+# B B H B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 489 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B   B T B B B # 
+# B B   B B B B B # 
+# B     B B B B B # 
+# B   H B F B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 490 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B   T   B B B # 
+# B B   B B B B B # 
+# B     B B B B B # 
+# B H B B F B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 491 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B       B B B # 
+# B B   T B B B B # 
+# B H   B B B B B # 
+# B B B B F B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 492 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B       B B B # 
+# B B     T B B B # 
+# B B H B B B B B # 
+# B B B B F B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 493 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B       B B B # 
+# B B H     B B B # 
+# B B B B T B B B # 
+# B B B B F B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 494 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B H     B B B # 
+# B B B     B B B # 
+# B B B T   B B B # 
+# B B B B F B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 495 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B B H   B B B # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B T F B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 496 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B B B H B B B # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B   F B B B # 
+# B B B T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 497 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B B B B B B B # 
+# B B B   H B B B # 
+# B B B     B B B # 
+# B B B   F B B B # 
+# B B B   T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 498 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   H B B B # 
+# B B B   F B B B # 
+# B B B     T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 499 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B   H B B B # 
+# B B B F   T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 500 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B           B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B H B B B B # 
+# B B B F     T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 501 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B H     T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 502 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B H     T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 503 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B T # 
+# B B B B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 504 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B T   # 
+# B B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 505 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B T     # 
+# B B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 506 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B T B B # 
+# B B B B B     H # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 507 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B   T B # 
+# B B B B B   H B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 508 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B B # 
+# B B B   B     T # 
+# B B B B B H B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 509 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B B T # 
+# B B B   B H     # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 510 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B B T   # 
+# B B B   B B H   # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 511 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B B B B # 
+# B B B   B T     # 
+# B B B   B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 512 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B T B B # 
+# B B B   B     H # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 513 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B   T B # 
+# B B B   B   H B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 514 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         B # 
+# B B B B B     T # 
+# B B B   B H B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 515 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           B # 
+# B B F         T # 
+# B B B B B H     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 516 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+#   B           T # 
+# B B F     H     # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 517 ]
+# # # # # # # # # # 
+#   B B B B B B T # 
+#   B             # 
+# B B F   H B     # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 518 ]
+# # # # # # # # # # 
+#   B B B B B T   # 
+#   B             # 
+# B B F H B B     # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 519 ]
+# # # # # # # # # # 
+#   B B B B B T   # 
+#   B             # 
+# B B H B B B F   # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 520 ]
+# # # # # # # # # # 
+#   B B B B T     # 
+#   B H           # 
+# B B B B B B F   # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 521 ]
+# # # # # # # # # # 
+#   B B B T       # 
+#   B B H         # 
+# B B B B B B F   # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 522 ]
+# # # # # # # # # # 
+#   B B T         # 
+#   B B B H       # 
+# B B B B B B F   # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 523 ]
+# # # # # # # # # # 
+#   B T           # 
+#   B B B B H     # 
+# B B B B B B F   # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 524 ]
+# # # # # # # # # # 
+#   T             # 
+#   B B B B B H   # 
+# B B B B B B F   # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 525 ]
+# # # # # # # # # # 
+#   T   F         # 
+#   B B B B B B   # 
+# B B B B B B H   # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 526 ]
+# # # # # # # # # # 
+#       F         # 
+#   T B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 527 ]
+# # # # # # # # # # 
+#       F         # 
+#     B B B B B H # 
+# B T B B B B B B # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 528 ]
+# # # # # # # # # # 
+#       F       H # 
+#     B B B B B B # 
+# T   B B B B B B # 
+# B B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 529 ]
+# # # # # # # # # # 
+#       F     H B # 
+#     B B B B B B # 
+#     B B B B B B # 
+# T B B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 530 ]
+# # # # # # # # # # 
+#       F   H B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#   T B B B B     # 
+# B B B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 531 ]
+# # # # # # # # # # 
+#       F H B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B     # 
+# B T B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 532 ]
+# # # # # # # # # # 
+#       H B B B B # 
+#   F B B B B B B # 
+#     B B B B B B # 
+#     B B B B     # 
+# B T B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 533 ]
+# # # # # # # # # # 
+#     H B B B B B # 
+#   F B B B B B B # 
+#     B B B B B B # 
+#     B B B B     # 
+# T   B   B B B B # 
+# B B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 534 ]
+# # # # # # # # # # 
+#   H B B B B B B # 
+#   F B B B B B B # 
+#     B B B B B B # 
+#     B B B B     # 
+#     B   B B B B # 
+# T B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 535 ]
+# # # # # # # # # # 
+#   B B B B B B B # 
+# F H B B B B B B # 
+#     B B B B B B # 
+#     B B B B     # 
+#     B   B B B B # 
+# T B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 536 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# H B B B B B B B # 
+#     B B B B B B # 
+#     B B B B     # 
+#     B   B B B B # 
+# T B B   B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 537 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# H   B B B B B B # 
+#     B B B B     # 
+#     B   B B B B # 
+#   B B   B B B B # 
+# T B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 538 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B H B B B B B B # 
+#     B B B B     # 
+#     B   B B B B # 
+#   B B   B B B B # 
+#   B B B B B B B # 
+# T B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 539 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   H B B B B     # 
+#     B   B B B B # 
+#   B B   B B B B # 
+#   B B B B B B B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 540 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+#   H B   B B B B # 
+#   B B   B B B B # 
+#   B B B B B B B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 541 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# H B B   B B B B # 
+#   B B   B B B B # 
+#   B T B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 542 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B   B B B B # 
+# H B B   B B B B # 
+#   T   B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 543 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B   B B B B # 
+# B T B   B B B B # 
+# H     B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 544 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B   B B B B # 
+# B   T   B B B B # 
+# B     B B B B B # 
+# H     B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 545 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B T   B B B B # 
+# B       B B B B # 
+# B     B B B B B # 
+# B H   B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 546 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B T B B B     # 
+# B B     B B B B # 
+# B       B B B B # 
+# B     B B B B B # 
+# B B H B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 547 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B   T B B     # 
+# B B     B B B B # 
+# B       B B B B # 
+# B   H B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 548 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B     T B     # 
+# B B     B B B B # 
+# B       B B B B # 
+# B H B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 549 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B       B     # 
+# B B     T B B B # 
+# B H     B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 550 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B       B     # 
+# B B       B B B # 
+# B B H   T B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 551 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B       B     # 
+# B B H     B B B # 
+# B B B     B B B # 
+# B B B B T B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 552 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B H     B     # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B T   B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 553 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B H   B     # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 554 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B H B     # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B   T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 555 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B   H B B B # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B     T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 556 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B H B B B B # 
+# B B B     B B B # 
+# B B B     B B B # 
+# B B B       T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 557 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B B # 
+# B B B H   B B B # 
+# B B B     B B B # 
+# B B B         T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 558 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B B # 
+# B B B B H B B B # 
+# B B B     B B T # 
+# B B B           # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 559 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B   H B T   # 
+# B B B           # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 560 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B H B T     # 
+# B B B           # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 561 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B B # 
+# B B B B B T B B # 
+# B B B B B       # 
+# B B B H         # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 562 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B B # 
+# B B B B B   T B # 
+# B B B B B       # 
+# B B B B H       # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 563 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B B # 
+# B B B B B     T # 
+# B B B B B       # 
+# B B B B B H     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 564 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B B T # 
+# B B B B B       # 
+# B B B B B H     # 
+# B B B B B B     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 565 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B B T   # 
+# B B B B B H     # 
+# B B B B B B     # 
+# B B B B B B     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 566 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B B     # 
+# B B B B B T     # 
+# B B B B B B H   # 
+# B B B B B B     # 
+# B B B B B B     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 567 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+#   B B B B T     # 
+# B B B B B       # 
+# B B B B B B B   # 
+# B B B B B B H   # 
+# B B B B B B     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 568 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B T B B # 
+#   B B B B       # 
+# B B B B B       # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 569 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B B T   B B # 
+#   B B B B       # 
+# B B B B B       # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 570 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B B T     B B # 
+#   B B B B       # 
+# B B B B B       # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 571 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B B B B B B B # 
+# B B T       B B # 
+#   B B B B       # 
+# B B B B B       # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 572 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B T B B B B B # 
+# B B         B B # 
+#   B B B B       # 
+# B B B B B     H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 573 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B   T B B B B # 
+# B B         B B # 
+#   B B B B     H # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 574 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B     T B B B # 
+# B B         B B # 
+#   B B B B   H B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 575 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B       T B B # 
+# B B         B B # 
+#   B B B B   B B # 
+# B B B B B   H B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 576 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B         T B # 
+# B B         B B # 
+#   B B B B   B B # 
+# B B B B B H B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 577 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B           B # 
+# B B         T B # 
+#   B B B B H B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 578 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B           B # 
+# B B       H   T # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 579 ]
+# # # # # # # # # # 
+# F B B B B B B B # 
+# B B           T # 
+# B B     H B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 580 ]
+# # # # # # # # # # 
+# F B B B B B B T # 
+# B B             # 
+# B B   H B B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 581 ]
+# # # # # # # # # # 
+# F B B B B B T   # 
+# B B             # 
+# B B H B B B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 582 ]
+# # # # # # # # # # 
+# F B B B B T     # 
+# B B H           # 
+# B B B B B B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 583 ]
+# # # # # # # # # # 
+# F B B B T       # 
+# B B B H         # 
+# B B B B B B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 584 ]
+# # # # # # # # # # 
+# F B B T         # 
+# B B B B H       # 
+# B B B B B B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 585 ]
+# # # # # # # # # # 
+# F B T           # 
+# B B B B B H     # 
+# B B B B B B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 586 ]
+# # # # # # # # # # 
+# F T             # 
+# B B B B B B H   # 
+# B B B B B B     # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 587 ]
+# # # # # # # # # # 
+# F               # 
+# B T B B B B B   # 
+# B B B B B B H   # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 588 ]
+# # # # # # # # # # 
+# F               # 
+# T   B B B B B   # 
+# B B B B B B B H # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 589 ]
+# # # # # # # # # # 
+# F               # 
+#     B B B B B H # 
+# T B B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 590 ]
+# # # # # # # # # # 
+# F             H # 
+#     B B B B B B # 
+#   T B B B B B B # 
+#   B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 591 ]
+# # # # # # # # # # 
+# F           H B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#   T B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 592 ]
+# # # # # # # # # # 
+# F         H B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+# B T B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 593 ]
+# # # # # # # # # # 
+# F       H B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+# T   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 594 ]
+# # # # # # # # # # 
+# F     H B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+# T B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 595 ]
+# # # # # # # # # # 
+# F   H B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#   B B B B B B B # 
+# T B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 596 ]
+# # # # # # # # # # 
+# F H B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# T B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 597 ]
+# # # # # # # # # # 
+# H B B B B B B B # 
+#     B B B B B B # 
+#     B B B B B B # 
+#   F B B B B B B # 
+#     B B B B B B # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+# T B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 598 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# H   B B B B B B # 
+#     B B B B B B # 
+#   F B B B B B B # 
+#     B B B B B B # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#   T B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 599 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# H   B B B B B B # 
+#   F B B B B B B # 
+#     B B B B B B # 
+#   B B B B B B B # 
+#   B B B B B B B # 
+#     T B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 600 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# H F B B B B B B # 
+#     B B B B B B # 
+#   B B B B B B B # 
+#   B T B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 601 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B H B B B B B B # 
+# F   B B B B B B # 
+#   B B B B B B B # 
+#   B T B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 602 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# F H B B B B B B # 
+#   B B B B B B B # 
+#   T   B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 603 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# H B B B B B B B # 
+# F B B B B B B B # 
+#   T   B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 604 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# H B B B B B B B # 
+# F T   B B B B B # 
+#       B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 605 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# H T   B B B B B # 
+#   F   B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 606 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B T B B B B B B # 
+# B     B B B B B # 
+# H F   B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 607 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B T B B B B B B # 
+# B   F B B B B B # 
+# B H   B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 608 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B   B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   T B B B B B # 
+# B   F B B B B B # 
+# B B H B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 609 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B   T B B B B B # 
+# B   H B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 610 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B T B B B B B # 
+# B     B B B B B # 
+# B H B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 611 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B T B B B B B # 
+# B B   B B B B B # 
+# B H   B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 612 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B   T B B B B # 
+# B B   B B B B B # 
+# B B H B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 613 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B     T B B B # 
+# B B H B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 614 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B H     B B B # 
+# B B B B T B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 615 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B H   B B B # 
+# B B B T   B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 616 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B H B B B # 
+# B B B     B B B # 
+# B B B T B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 617 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B   H B B B # 
+# B B B   T B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 618 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B H B B B B # 
+# B B B     B B B # 
+# B B B B T B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 619 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B H   B B B # 
+# B B B T   B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 620 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B H B B B # 
+# B B B     B B B # 
+# B B B T B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 621 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B   H B B B # 
+# B B B   T B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 622 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B H B B B B # 
+# B B B     T B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 623 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B T B B # 
+# B B B H     B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 624 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B T B B # 
+# B B B B B   B B # 
+# B B B B H   B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 625 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B   T B # 
+# B B B B B   B B # 
+# B B B B B H B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 626 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B     B # 
+# B B B B B H T B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 627 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B H   B # 
+# B B B B B B   B # 
+# B B B B B B T B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 628 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B H B # 
+# B B B B B B   B # 
+# B B B B B B   T # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 629 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B H T # 
+# B B B B B B     # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
+[ Episode 1 / Step 630 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B T # 
+# B B B B B B B   # 
+# B B B B B B H   # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.RIGHT ]
+
+[ Episode 1 / Step 631 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B T # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.UP ]
+
+[ Episode 1 / Step 632 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B B T # 
+# B B B B B B B   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 633 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B T   # 
+# B B B B B B B   # 
+# B B B B B B B H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 634 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B     # 
+# B B B B B B T H # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 635 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B B   H # 
+# B B B B B T   B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 636 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B B B B # 
+# B B B B B T H B # 
+# B B B B B     B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.DOWN ]
+
+[ Episode 1 / Step 637 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B B T B B # 
+# B B B B B   B B # 
+# B B B B B   H B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.LEFT ]
+
+[ Episode 1 / Step 638 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B B T   B B # 
+# B B B B B   B B # 
+# B B B B B H B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 639 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   B T     B B # 
+# B B B B B H B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.UP ]
+
+[ Episode 1 / Step 640 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F B B B B B B # 
+# B   T     H B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.LEFT ]
+
+[ Episode 1 / Step 641 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F T B B B B B # 
+# B       H B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 642 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F   T B B B B # 
+# B     H B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 643 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F     T B B B # 
+# B   H B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.LEFT ]
+
+[ Episode 1 / Step 644 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B F       T B B # 
+# B H B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.LEFT/Direc.UP ]
+
+[ Episode 1 / Step 645 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B H     F T B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.UP/Direc.RIGHT ]
+
+[ Episode 1 / Step 646 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B H   F   T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 647 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B H F     B # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 648 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B H   F B # 
+# B B B B B B T B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 649 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B H F B # 
+# B B B B B B   T # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.RIGHT ]
+
+[ Episode 1 / Step 650 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B H B # 
+# B B B B B B F T # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.RIGHT/Direc.DOWN ]
+
+[ Episode 1 / Step 651 ]
+# # # # # # # # # # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B H T # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# B B B B B B B B # 
+# # # # # # # # # # 
+[ last/next direc: Direc.DOWN/Direc.DOWN ]
+
